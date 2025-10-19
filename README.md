@@ -96,12 +96,6 @@ Daha fazlası için [LinkedIn](https://linkedin.com/in/qelementum) profilime gö
 
 ---
 
-<div align="center">
-
-### 🎪 Birlikte bir şeyler inşa edelim!
-
-![Visitor Count](https://profile-counter.glitch.me/qelementum/count.svg)
 
 **"Hayallerini kod satırlarına dökmeye devam et!"** ⚡
 
-</div>
