@@ -1,39 +1,39 @@
 <div align="center">
 
-# 🌟 Merhaba, Ben Kuasar! 🌟
+# 🌟 Hello, I'm Kuasar! 🌟
 
 ### 💻 Full-Stack Developer | 🚀 Problem Solver | ⚡ Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=600&lines=Her+G%C3%BCn+Kodluyorum+%F0%9F%92%BB;Yeni+Teknolojiler+%C3%96%C4%9Freniyorum+%F0%9F%93%9A;Gelece%C4%9Fi+%C4%B0n%C5%9Fa+Ediyorum+%F0%9F%9A%80;Temiz+Kod+Yazma+Tutkunu+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=600&lines=Coding+Every+Day+%F0%9F%92%BB;Learning+New+Technologies+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Hakkımda
+## 🎯 About Me
 
-Fikirlerimi kod ile hayata geçirmeyi seven, temiz ve ölçeklenebilir çözümler üreten bir geliştiriciyim.
+I'm a passionate developer who loves turning ideas into reality through code, creating clean and scalable solutions.
 
 ```javascript
 const kuasar = {
   role: "Full-Stack Developer",
-  location: "Türkiye 🇹🇷",
-  currentFocus: "İnovatif web uygulamaları geliştirme",
+  location: "Turkey 🇹🇷",
+  currentFocus: "Building innovative web applications",
   learning: ["Next.js 14", "TypeScript", "Docker", "Linux", "Nginx"],
   interests: ["AI/ML", "Web3", "Cloud Architecture", "Microservices"],
-  lifePhilosophy: "☕ Kahve + 💻 Kod = ✨ Sihir"
+  lifePhilosophy: "☕ Coffee + 💻 Code = ✨ Magic"
 };
 ```
 
-**📍 Şu anda:**
-- 🔨 Production-ready SaaS ürünleri geliştiriyorum
-- 🐧 Linux server otomasyonu üzerinde çalışıyorum
-- 🤖 AI destekli productivity araçları yapıyorum
-- 🔐 Güvenlik ve monitoring sistemleri kuruyorum
+**📍 Currently:**
+- 🔨 Developing production-ready SaaS products
+- 🐧 Working on Linux server automation
+- 🤖 Building AI-powered productivity tools
+- 🔐 Setting up security and monitoring systems
 
 ---
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -83,7 +83,7 @@ const kuasar = {
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const kuasar = {
 
 ---
 
-## 🏆 GitHub Başarılarım
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -116,82 +116,82 @@ const kuasar = {
 
 ---
 
-## 🎯 2025 Hedeflerim
+## 🎯 2025 Goals
 
 <div align="center">
 
-| Hedef | Durum | İlerleme |
-|-------|--------|----------|
-| 🚀 3 SaaS Ürün Geliştir | 🔄 Devam Ediyor | ████░░░░░░ 40% |
-| 🐧 Linux Otomasyon Uzmanlığı | 🔄 Devam Ediyor | ██████░░░░ 60% |
-| 💻 10+ Open Source Katkı | 🔄 Devam Ediyor | ███░░░░░░░ 30% |
-| 🔧 DevOps Pipeline Kurulumu | ✅ Tamamlandı | ██████████ 100% |
+| Goal | Status | Progress |
+|------|--------|----------|
+| 🚀 Build 3 SaaS Products | 🔄 In Progress | ████░░░░░░ 40% |
+| 🐧 Master Linux Automation | 🔄 In Progress | ██████░░░░ 60% |
+| 💻 10+ Open Source Contributions | 🔄 In Progress | ███░░░░░░░ 30% |
+| 🔧 DevOps Pipeline Setup | ✅ Completed | ██████████ 100% |
 
 </div>
 
 ---
 
-## 🚀 Aktif Projelerim
+## 🚀 Active Projects
 
 ```yaml
-projeler:
-  - isim: "Full-Stack Web Platform"
-    teknolojiler: ["Next.js", "Node.js", "PostgreSQL", "Docker"]
-    durum: "🔄 Geliştirme Aşamasında"
+projects:
+  - name: "Full-Stack Web Platform"
+    technologies: ["Next.js", "Node.js", "PostgreSQL", "Docker"]
+    status: "🔄 In Development"
     
-  - isim: "AI Productivity Tools"
-    teknolojiler: ["Python", "TensorFlow", "React", "FastAPI"]
-    durum: "🔄 Beta Testi"
+  - name: "AI Productivity Tools"
+    technologies: ["Python", "TensorFlow", "React", "FastAPI"]
+    status: "🔄 Beta Testing"
     
-  - isim: "Linux Deployment Automation"
-    teknolojiler: ["Bash", "Ansible", "Docker", "Nginx"]
-    durum: "✅ Production"
+  - name: "Linux Deployment Automation"
+    technologies: ["Bash", "Ansible", "Docker", "Nginx"]
+    status: "✅ Production"
     
-  - isim: "Security Monitoring System"
-    teknolojiler: ["Node.js", "Redis", "WebSockets", "Grafana"]
-    durum: "🔄 İlk Versiyon"
+  - name: "Security Monitoring System"
+    technologies: ["Node.js", "Redis", "WebSockets", "Grafana"]
+    status: "🔄 Version 1.0"
 ```
 
 ---
 
-## 💼 İş Deneyimim
+## 💼 Work Experience
 
 <details>
-<summary><b>Full-Stack Developer | Tech Company (2022 - Günümüz)</b></summary>
+<summary><b>Full-Stack Developer | Tech Company (2022 - Present)</b></summary>
 
-- ✅ Ölçeklenebilir web uygulamaları geliştirdim
-- ✅ Linux + Nginx deployment otomasyonu kurdum
-- ✅ Docker ve GitHub Actions ile CI/CD pipeline'ları oluşturdum
-- ✅ Backend performansını %40 artırdım
+- ✅ Developed and maintained scalable web applications
+- ✅ Automated Linux + Nginx deployments
+- ✅ Built CI/CD pipelines using Docker and GitHub Actions
+- ✅ Improved backend performance by 40%
 
 </details>
 
 <details>
 <summary><b>Software Engineer | Startup (2020 - 2022)</b></summary>
 
-- ✅ REST API'ler ve modüler sistemler tasarladım
-- ✅ Veritabanı optimizasyonları uyguladım
-- ✅ Junior developer'lara mentorluk yaptım
-- ✅ Agile geliştirme süreçlerini yönettim
+- ✅ Designed REST APIs and modular systems
+- ✅ Implemented database optimizations
+- ✅ Mentored junior developers
+- ✅ Applied agile development workflows
 
 </details>
 
 ---
 
-## 📚 Son Blog Yazılarım
+## 📚 Latest Blog Posts
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-Microservices_ile_Ölçeklenebilir_Mimari-84cc16?style=for-the-badge&logo=hashnode)](https://github.com/kuasarkod)
-[![Blog](https://img.shields.io/badge/Blog-Linux_Otomasyon_Rehberi-84cc16?style=for-the-badge&logo=linux)](https://github.com/kuasarkod)
-[![Blog](https://img.shields.io/badge/Blog-Modern_Nginx_Konfigürasyonu-84cc16?style=for-the-badge&logo=nginx)](https://github.com/kuasarkod)
-[![Blog](https://img.shields.io/badge/Blog-Docker_ile_Başlangıç-84cc16?style=for-the-badge&logo=docker)](https://github.com/kuasarkod)
+[![Blog](https://img.shields.io/badge/Blog-Scalable_Architecture_with_Microservices-84cc16?style=for-the-badge&logo=hashnode)](https://github.com/kuasarkod)
+[![Blog](https://img.shields.io/badge/Blog-Linux_Automation_Guide-84cc16?style=for-the-badge&logo=linux)](https://github.com/kuasarkod)
+[![Blog](https://img.shields.io/badge/Blog-Modern_Nginx_Configuration-84cc16?style=for-the-badge&logo=nginx)](https://github.com/kuasarkod)
+[![Blog](https://img.shields.io/badge/Blog-Getting_Started_with_Docker-84cc16?style=for-the-badge&logo=docker)](https://github.com/kuasarkod)
 
 </div>
 
 ---
 
-## 📫 Benimle İletişime Geçin
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -205,7 +205,7 @@ projeler:
 
 ---
 
-## 💭 Günün Sözü
+## 💭 Quote of the Day
 
 <div align="center">
 
@@ -215,11 +215,11 @@ projeler:
 
 ---
 
-## 📈 Profil Görüntüleme
+## 📈 Profile Views
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kuasarkod&color=84cc16&style=for-the-badge&label=PROFİL+GÖRÜNTÜLENMESİ)
+![Profile Views](https://komarev.com/ghpvc/?username=kuasarkod&color=84cc16&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -227,12 +227,12 @@ projeler:
 
 <div align="center">
 
-### 💚 Ziyaret Ettiğiniz İçin Teşekkürler! Birlikte Harika Şeyler Yapalım! 💚
+### 💚 Thanks for Visiting! Let's Build Something Amazing Together! 💚
 
-**"Kod, açıklamak zorunda kaldığınızda kötü demektir."** – Cory House
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 ---
 
-⭐️ [kuasarkod](https://github.com/kuasarkod) tarafından 💚 ile yapıldı
+⭐️ Made with 💚 by [kuasarkod](https://github.com/kuasarkod)
 
 </div>
