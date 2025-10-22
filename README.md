@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;Passionate+About+Technology;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84CC16&center=true&vCenter=true&width=435&lines=Building+the+Future+with+Code;Passionate+About+Technology;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -43,7 +43,8 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -51,7 +52,6 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### DevOps & Tools
@@ -91,7 +91,7 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=kuasarkod&theme=merko&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![](https://github-profile-trophy.vercel.app/?username=kuasarkod&theme=merko&no-frame=true&margin-w=4&column=7)
 
 </div>
 
@@ -101,88 +101,20 @@ I'm a passionate developer who loves turning ideas into reality through code. I 
 
 ```javascript
 const currentlyLearning = {
-  technologies: ['Next.js 14', 'TypeScript', 'Docker', 'Kubernetes'],
+  technologies: ['Next.js 14', 'TypeScript', 'Docker', 'Linux', 'Nginx'],
   interests: ['AI/ML', 'Web3', 'Cloud Architecture', 'Microservices'],
   goals: {
-    2024: [
-      'Master advanced React patterns',
+    2025: [
       'Build 3 production-ready SaaS products',
+      'Master Linux server automation',
       'Contribute to 10+ open-source projects',
-      'Learn DevOps best practices'
+      'Implement DevOps pipelines from scratch'
     ]
   },
   currentProjects: [
-    '🚀 Building a full-stack e-commerce platform',
+    '🚀 Building a full-stack web platform',
     '🤖 Developing AI-powered productivity tools',
-    '📱 Creating a mobile-first web application',
-    '🔐 Working on authentication & security solutions'
+    '🖥️ Automating Linux deployments',
+    '🔐 Working on security and monitoring systems'
   ]
 };
-🌟 Featured Projects
-<div align="center">
-
-
-</div>
-💼 Work Experience
-Full-Stack Developer | Tech Company
-2022 - Present
-
-Developed and maintained scalable web applications
-
-Implemented CI/CD pipelines and automated testing
-
-Collaborated with cross-functional teams
-
-Improved application performance by 40%
-
-Software Engineer | Startup
-2020 - 2022
-
-Built RESTful APIs and microservices
-
-Designed database schemas and optimized queries
-
-Mentored junior developers
-
-Led agile development practices
-
-📫 Let's Connect!
-<div align="center">
-
-
-
-
-
-
-</div>
-📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-🚀 Building Scalable Microservices with Node.js
-
-💡 Best Practices for React State Management
-
-🔐 Implementing JWT Authentication in Express
-
-🐳 Docker for Beginners: A Complete Guide
-
-⚡ Optimizing Web Performance in 2024
-
-<!-- BLOG-POST-LIST:END -->
-💭 Developer Quote
-<div align="center">
-
-</div>
-📈 Profile Views
-<div align="center">
-
-
-</div>
-<div align="center">
-💚 Thanks for visiting! Let's build something amazing together! 💚
-"Code is like humor. When you have to explain it, it's bad." - Cory House
-
-</div>
-<div align="center">
-⭐️ From kuasarkod with 💚
-
-</div> ```
