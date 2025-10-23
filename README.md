@@ -193,7 +193,7 @@ projects:
 
 ---
 
-## 📫 Bana Ulaşabilirsiniz
+## 📫 Contact Me
 
 <div align="center">
 
